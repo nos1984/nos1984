@@ -1,4 +1,6 @@
-## Hi there 👋
+![logo](nos.png)
+<h1 align="center">Hi 👋, I'm Nacim Braik</h1>
+<h3 align="center">A passionate Programmer from Tizi Ouzou</h3>
 
 <!--
 **nos1984/nos1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
