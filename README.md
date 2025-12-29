@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nacim Braik</h1>
 <h3 align="center">A passionate Programmer from Tizi Ouzou</h3>
 
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">I am fascinated by how computer technology 🌐 continues to transform our lives in ways that were once unimaginable. Witnessing the growth of software and computing inspired me to pursue software engineering from an early age, and my passion for it has only grown since then. I particularly enjoy working with Python 🐍, exploring new libraries and frameworks, and leveraging them to build innovative and practical solutions 🛠️</p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
@@ -54,14 +54,14 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=py,nodejs,flask,fastapi,django" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,materialui" />
   </a>
 </p>
 
@@ -75,14 +75,14 @@
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,cloudflare" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,linux" />
   </a>
 </p>
 
