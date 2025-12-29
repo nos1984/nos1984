@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **nosbraik@gmail.com**
 
-- 📄 Know about my experiences [my experiences](http://nos.traditionalme.life/#resume)
+- 📄 Know about my experiences [my experiences](https://github.com/nos1984/nos1984/blob/main/Nacim%20resume%202025.docx.pdf)
 
 - ⚡ Fun fact **I think I'm funny**
 
