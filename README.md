@@ -43,7 +43,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nacim-braik-3b2a87196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/nacimbraik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/nacimbraik" target="blank"><img align="center" src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent.svg" alt="" height="30" width="40" /></a>
 </p>
 <br>
 
